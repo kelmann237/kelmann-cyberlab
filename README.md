@@ -225,11 +225,11 @@ The traditional paper-based method used a lot of printing, photocopying, and fil
 
 With cloud integration, the school can connect to platforms like Google Workspace and Microsoft 365. Staff can now edit and share documents in real time, hold virtual meetings, and back up files online. Teachers can also upload notes or assignments for easy access, even from home.
 
-This feature makes it possible for the school to continue working even when staff are not physically present on campus — for example, during holidays or unexpected closures.
+This feature makes it possible for the school to continue working even when staff are not physically present on campus for example, during holidays or unexpected closures.
 
 5.6 Data Backup and Recovery
 
-The system includes regular backups on both the local server and cloud. This means that even if something goes wrong — like a computer breakdown or virus attack — important files remain safe. Restoring data becomes quick and simple, reducing downtime.
+The system includes regular backups on both the local server and cloud. This means that even if something goes wrong like a computer breakdown or virus attack important files remain safe. Restoring data becomes quick and simple, reducing downtime.
 
 5.7 Scalability and Future Growth
 
@@ -303,7 +303,7 @@ The integration of cloud services marks a major step forward. Staff can now acce
 
 Despite these benefits, the project did face several challenges. Limited resources, especially in terms of hardware and funding, posed a constraint. Networking equipment such as routers, switches, and servers can be costly, and not all schools have the budget to implement such systems immediately. However, the use of simulation tools like Cisco Packet Tracer allowed for a realistic preview of the network without requiring physical devices during the planning phase.
 
-Another challenge was the need for technical knowledge. Networking requires specific skills in configuration, troubleshooting, and maintenance. Some staff members may not be familiar with these concepts, which means training is essential. The school must invest in capacity building either by training existing staff or hiring qualified technicians—to ensure the system remains functional and secure over time.
+Another challenge was the need for technical knowledge. Networking requires specific skills in configuration, troubleshooting, and maintenance. Some staff members may not be familiar with these concepts, which means training is essential. The school must invest in capacity building either by training existing staff or hiring qualified technicians to ensure the system remains functional and secure over time.
 
 Power and internet reliability also remain concerns. In many parts of Cameroon, electricity supply can be unstable, and internet connectivity may be slow or inconsistent. These issues can affect the performance of the digital system, especially cloud services. To mitigate this, the school should consider backup power solutions such as generators or solar panels, and work with reliable internet providers to ensure consistent access.
 

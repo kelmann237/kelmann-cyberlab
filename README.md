@@ -2,7 +2,7 @@ This project presents a complete digital transformation plan for Government Bili
 
 For many years, the school has relied on paper records to manage student data, exam results, financial transactions, and administrative documents. These manual systems often cause serious problems such as loss of files, delays in communication, and difficulty in retrieving important information when needed. Teachers sometimes have to move from one office to another just to collect or deliver files. This wastes time and reduces productivity.
 
-With this digital transformation project, the school can shift to a network based environment where all departments that is Administration, Finance, Academic, and Library — are connected and can share information in real time. Instead of depending on piles of documents, staff members will be able to use computers connected to the same local network, with access to a central server and cloud storage. This will make their work faster, more organized, and much safer.
+With this digital transformation project, the school can shift to a network based environment where all departments that is Administration, Finance, Academic, and Library  are connected and can share information in real time. Instead of depending on piles of documents, staff members will be able to use computers connected to the same local network, with access to a central server and cloud storage. This will make their work faster, more organized, and much safer.
 
 The entire setup of the school’s network was designed and simulated using Cisco Packet Tracer, a professional tool that allows users to create and test computer networks virtually before implementing them in real life. The simulation shows how data can move between departments, how internet access is managed, and how cloud services are integrated for storage and collaboration.
 
@@ -14,28 +14,28 @@ The main objective of this project is to design and demonstrate a digital networ
 
 Below are the specific objectives:
 
-To design a reliable and secure school network:
+.To design a reliable and secure school network:
 The goal is to create a system that connects all offices and departments using switches, routers, and servers while keeping data protected from unauthorized access.
 
-To replace manual record keeping with a digital system:
+.To replace manual record keeping with a digital system:
 By using computers and shared storage, the school can manage student records, financial data, and academic files more efficiently than with paper.
 
-To demonstrate the use of Cisco Packet Tracer:
+.To demonstrate the use of Cisco Packet Tracer:
 This simulation software helps to visualize the real functioning of the network before it is physically implemented. It allows testing of connections, IP configurations, and data flow.
 
-To ensure each department has its own internal connection (LAN):
+.To ensure each department has its own internal connection (LAN):
 Every department in the school has its own local area network connected to a switch. This ensures fast and direct communication among staff within the same department.
 
-To create a central communication point for the entire school:
+.To create a central communication point for the entire school:
 A main switch connects all departmental switches together, allowing smooth communication between departments while preventing congestion.
 
-To integrate cloud storage and online collaboration tools:
+.To integrate cloud storage and online collaboration tools:
 The school can use platforms such as Google Workspace or Microsoft 365 to allow remote access, online document sharing, and real-time collaboration.
 
-To improve the safety of school data:
+.To improve the safety of school data:
 The system includes a firewall and regular data backups to protect the network from cyber threats and data loss.
 
-To provide a model that other schools can follow:
+.To provide a model that other schools can follow:
 This project can serve as an example for other institutions in Cameroon or Africa that want to go digital but don’t know how to start.
 
 3. Background and Problem Statement
